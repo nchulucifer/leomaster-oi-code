@@ -1,7 +1,8 @@
+// P4310 绝世好题 by leomaster
 #include <bits/stdc++.h>
 using namespace std;
 int f[100010], last[35];
-int ans,n;
+int ans, n;
 int main()
 {
     cin >> n;
